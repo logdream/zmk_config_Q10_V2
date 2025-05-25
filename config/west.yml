@@ -6,7 +6,7 @@ manifest:
       url-base: https://github.com/logdream
   projects:
     - name: zmk
-      remote: ZitaoTech
+      remote: loogdream
       revision: bbkeyboards_q10_9983
       import: app/west.yml
   self:
