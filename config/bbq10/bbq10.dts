@@ -81,7 +81,7 @@ RC(6,1)          RC(6,0)             RC(5,0)             RC(2,0)          RC(3,2
             = <&gpio1 11  GPIO_ACTIVE_HIGH>
             , <&gpio1 6  GPIO_ACTIVE_HIGH>
             , <&gpio1 2  GPIO_ACTIVE_HIGH>
-            , <&gpio0 15 GPIO_ACTIVE_HIGH>
+            , <&gpio1 15 GPIO_ACTIVE_HIGH>
             , <&gpio0 17 GPIO_ACTIVE_HIGH>
             ;
     };
