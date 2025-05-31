@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: loogdream
-      revision: bbkeyboards_q10_9983
+      revision: bb10
       import: app/west.yml
   self:
     path: config
